@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fevzi Açıkgöz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">WhereAmazingHappens</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fevziacikgoz&label=Profile%20views&color=0e75b6&style=flat" alt="fevziacikgoz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fevziacikgoz&theme=default" alt="fevziacikgoz" /></a> </p>
