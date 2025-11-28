@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.svgrepo.com/show/473733/developer.svg" width="120" />
+  <img src="[https://www.svgrepo.com/show/473733/developer.svg](https://media.licdn.com/dms/image/v2/D4D03AQEPKINOHCNAgg/profile-displayphoto-scale_400_400/B4DZrFiNynG8Ak-/0/1764250674190?e=1766016000&v=beta&t=wOJ0TiK_jYIDjPrmTFBI3POid_7wj3fBRog36vIJwLM)" width="120" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fevzi Açıkgöz</h1>
