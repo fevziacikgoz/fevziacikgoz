@@ -88,39 +88,13 @@ motto: "Clean code, scalable systems, continuous improvement."
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=fevziacikgoz&theme=tokyonight&hide_border=true&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=fevziacikgoz&theme=default&hide_border=true&border_radius=10" />
-    <img width="53%" src="https://streak-stats.demolab.com/?user=fevziacikgoz&theme=tokyonight&hide_border=true&border_radius=10" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fevziacikgoz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fevziacikgoz&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8&cache_seconds=86400" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fevziacikgoz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=86400" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fevziacikgoz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fevziacikgoz&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=fevziacikgoz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=fevziacikgoz&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
   <a href="https://github.com/fevziacikgoz">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=fevziacikgoz&theme=tokyo-night&hide_border=true&border_radius=10&area=true" />
   </a>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fevziacikgoz&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
 </p>
 
 ---
