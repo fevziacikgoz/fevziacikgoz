@@ -99,6 +99,14 @@ motto: "Clean code, scalable systems, continuous improvement."
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=fevziacikgoz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
 </p>
