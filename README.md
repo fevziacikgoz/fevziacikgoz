@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEPKINOHCNAgg/profile-displayphoto-scale_400_400/B4DZrFiNynG8Ak-/0/1764250674190?e=1766016000&v=beta&t=wOJ0TiK_jYIDjPrmTFBI3POid_7wj3fBRog36vIJwLM" 
+  <img src="[https://media.licdn.com/dms/image/v2/D4D03AQEPKINOHCNAgg/profile-displayphoto-scale_400_400/B4DZrFiNynG8Ak-/0/1764250674190?e=1766016000&v=beta&t=wOJ0TiK_jYIDjPrmTFBI3POid_7wj3fBRog36vIJwLM](https://avatars.githubusercontent.com/u/57629636?v=4)" 
        width="160" 
        style="border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
 </p>
