@@ -40,7 +40,7 @@ focus:
   - CQRS, DDD & Clean Architecture
   - High-Performance Distributed Systems
 stack:
-  backend: [".NET 8", "C#", "Web API", "gRPC", "SignalR"]
+  backend: [".NET & .NET CORE", "C#", "Web API", "gRPC", "SignalR"]
   data: ["PostgreSQL", "MSSQL", "MongoDB", "Redis", "Elasticsearch"]
   messaging: ["RabbitMQ", "MassTransit"]
   devops: ["Docker", "Kubernetes", "Nginx", "CI/CD"]
